@@ -1,4 +1,2 @@
 * linguist-vendored
 *.python linguist-vendored=false
-*.sql linguist-detectable=true
-*.sql linguist-vendored=false
