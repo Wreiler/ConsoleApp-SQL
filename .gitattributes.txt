@@ -1,3 +1,3 @@
 * linguist-vendored
 *.sql linguist-detectable
-ConsoleAppFirst/Include/* linguist-documentation
+ConsoleAppFirst/Include/* -linguist-documentation
