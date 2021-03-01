@@ -1,2 +1,2 @@
 * linguist-vendored
-docs/* linguist-documentation
+*.h linguist-language=python
