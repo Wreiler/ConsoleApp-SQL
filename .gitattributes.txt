@@ -1,3 +1,5 @@
 * linguist-vendored
 *.python linguist-vendored=false
+*.C linguist-vendored=true
 ConsoleAppFirst/Include/* linguist-documentation
+*.h linguist-language=Python
