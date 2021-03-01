@@ -1,1 +1,2 @@
 ConsoleAppFirst/Include/* linguist-documentation
+*.sql linguist-detectable=true
